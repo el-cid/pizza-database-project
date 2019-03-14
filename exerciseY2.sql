@@ -1,2 +1,0 @@
-SELECT COUNT(Email) AS EM
-FROM Customer;
